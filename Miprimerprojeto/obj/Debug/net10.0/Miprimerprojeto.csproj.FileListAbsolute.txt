@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\bin\Debug\net10.0\Miprimerprojeto.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\bin\Debug\net10.0\Miprimerprojeto.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\bin\Debug\net10.0\Miprimerprojeto.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\bin\Debug\net10.0\Miprimerprojeto.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\bin\Debug\net10.0\Miprimerprojeto.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\refint\Miprimerprojeto.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\Miprimerprojeto.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Miprimerprojeto\obj\Debug\net10.0\ref\Miprimerprojeto.dll
