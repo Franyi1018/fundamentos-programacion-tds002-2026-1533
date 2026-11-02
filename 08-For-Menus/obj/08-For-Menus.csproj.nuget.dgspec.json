@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj": {}
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj": {
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj",
         "projectName": "08-For-Menus",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\08-For-Menus.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\08-For-Menus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
