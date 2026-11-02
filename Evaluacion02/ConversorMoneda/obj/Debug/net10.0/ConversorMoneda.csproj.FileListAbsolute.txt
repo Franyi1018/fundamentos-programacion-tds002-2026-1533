@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\bin\Debug\net10.0\ConversorMoneda.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\bin\Debug\net10.0\ConversorMoneda.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\bin\Debug\net10.0\ConversorMoneda.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\bin\Debug\net10.0\ConversorMoneda.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\bin\Debug\net10.0\ConversorMoneda.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\refint\ConversorMoneda.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ConversorMoneda.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\ConversorMoneda\obj\Debug\net10.0\ref\ConversorMoneda.dll

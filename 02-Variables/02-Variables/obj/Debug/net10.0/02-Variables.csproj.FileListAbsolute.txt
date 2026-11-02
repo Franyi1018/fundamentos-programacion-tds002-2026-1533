@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\bin\Debug\net10.0\02-Variables.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\bin\Debug\net10.0\02-Variables.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\bin\Debug\net10.0\02-Variables.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\bin\Debug\net10.0\02-Variables.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\bin\Debug\net10.0\02-Variables.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\refint\02-Variables.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\02-Variables.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\02-Variables\02-Variables\obj\Debug\net10.0\ref\02-Variables.dll

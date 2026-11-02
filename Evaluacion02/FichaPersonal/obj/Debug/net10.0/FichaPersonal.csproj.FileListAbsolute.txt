@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\bin\Debug\net10.0\FichaPersonal.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\refint\FichaPersonal.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\FichaPersonal.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\FichaPersonal\obj\Debug\net10.0\ref\FichaPersonal.dll

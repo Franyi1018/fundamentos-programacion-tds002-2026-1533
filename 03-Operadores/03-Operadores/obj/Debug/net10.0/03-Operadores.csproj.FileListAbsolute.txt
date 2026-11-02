@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\bin\Debug\net10.0\03-Operadores.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\bin\Debug\net10.0\03-Operadores.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\bin\Debug\net10.0\03-Operadores.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\bin\Debug\net10.0\03-Operadores.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\bin\Debug\net10.0\03-Operadores.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\refint\03-Operadores.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\03-Operadores.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\03-Operadores\03-Operadores\obj\Debug\net10.0\ref\03-Operadores.dll

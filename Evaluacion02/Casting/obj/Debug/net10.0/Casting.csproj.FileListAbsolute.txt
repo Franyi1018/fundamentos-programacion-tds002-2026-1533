@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\bin\Debug\net10.0\Casting.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\bin\Debug\net10.0\Casting.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\bin\Debug\net10.0\Casting.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\bin\Debug\net10.0\Casting.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\bin\Debug\net10.0\Casting.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\refint\Casting.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\Casting.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion02\Casting\obj\Debug\net10.0\ref\Casting.dll
