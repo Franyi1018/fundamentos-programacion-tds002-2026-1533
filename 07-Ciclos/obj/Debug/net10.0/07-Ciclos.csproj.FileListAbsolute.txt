@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\bin\Debug\net10.0\07-Ciclos.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\bin\Debug\net10.0\07-Ciclos.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\bin\Debug\net10.0\07-Ciclos.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\bin\Debug\net10.0\07-Ciclos.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\bin\Debug\net10.0\07-Ciclos.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\refint\07-Ciclos.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\07-Ciclos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\07-Ciclos\obj\Debug\net10.0\ref\07-Ciclos.dll

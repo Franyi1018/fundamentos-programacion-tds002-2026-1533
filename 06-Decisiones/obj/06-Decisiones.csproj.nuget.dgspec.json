@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj": {}
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj": {
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj",
         "projectName": "06-Decisiones",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\06-Decisiones.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\06-Decisiones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
