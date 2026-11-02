@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj": {}
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj": {
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj",
         "projectName": "04-Secuencial",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\04-Secuencial.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\04-Secuencial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

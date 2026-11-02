@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\bin\Debug\net10.0\Evaluacion03.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\bin\Debug\net10.0\Evaluacion03.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\bin\Debug\net10.0\Evaluacion03.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\bin\Debug\net10.0\Evaluacion03.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\bin\Debug\net10.0\Evaluacion03.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\refint\Evaluacion03.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\Evaluacion03.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\Evaluacion03\obj\Debug\net10.0\ref\Evaluacion03.dll
