@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj": {
+    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj",
         "projectName": "Evaluacion03",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\Evaluacion03.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\Evaluacion03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

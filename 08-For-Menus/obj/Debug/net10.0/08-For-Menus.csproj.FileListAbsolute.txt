@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\bin\Debug\net10.0\08-For-Menus.exe
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\bin\Debug\net10.0\08-For-Menus.deps.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\bin\Debug\net10.0\08-For-Menus.runtimeconfig.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\bin\Debug\net10.0\08-For-Menus.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\bin\Debug\net10.0\08-For-Menus.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.AssemblyInfo.cs
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.sourcelink.json
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\refint\08-For-Menus.dll
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.pdb
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\08-For-Menus.genruntimeconfig.cache
+C:\Users\Usuario\Documents\fundamento de programasion\progamas\08-For-Menus\obj\Debug\net10.0\ref\08-For-Menus.dll

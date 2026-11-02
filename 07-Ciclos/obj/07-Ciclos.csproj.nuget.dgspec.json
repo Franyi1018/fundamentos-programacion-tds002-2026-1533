@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj": {}
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj": {
+    "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj",
         "projectName": "07-Ciclos",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\07-Ciclos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Documents\\fundamento de programasion\\progamas\\07-Ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
